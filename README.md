@@ -15,6 +15,9 @@ movies to give preference over other movies in content based recommender.
 Weighted Rating (WR) = (( V/V+M) R)+(( M/V+M )C)
 
 ● V is the number of votes for the movie
+
 ● M is minimum number of votes required to be listed in the chart
+
 ● R is the average rating of the movie
+
 ● C is the mean vote across the whole report

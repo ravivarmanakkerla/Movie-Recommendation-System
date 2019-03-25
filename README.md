@@ -21,3 +21,12 @@ Weighted Rating (WR) = (( V/V+M) R)+(( M/V+M )C)
 ● R is the average rating of the movie
 
 ● C is the mean vote across the whole report
+
+# processing.py 
+       It removes all the unnecessary information from the MovieLens database
+
+# basic_recommender1.py & basic_recommender2.py
+       It is a recommender based on the metadata of the movies
+       
+# user_recommender.py
+        It is the final recommender based on the user interests as well as the ratings of the movies
